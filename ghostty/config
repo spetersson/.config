@@ -1,0 +1,8 @@
+# This is the configuration file for Ghostty.
+
+theme = Gruvbox Dark Hard
+font-family = Fira Code
+font-size = 9
+cursor-style = underline
+scrollback-limit = 100000
+shell-integration-features = ssh-env
